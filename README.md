@@ -30,31 +30,7 @@ Sou um desenvolvedor apaixonado por transformar ideias em código. Atualmente me
 
 ---
 
-### 📊 GitHub Stats
 
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=joaoluiz00&theme=dracula&no-frame=true&no-bg=true&margin-w=4" alt="joaoluiz00 trophies" />
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="https://github.com/joaoluiz00">
-    <img src="https://streak-stats.demolab.com/?user=joaoluiz00&theme=dracula&hide_border=true" alt="GitHub Streak" />
-  </a>
-</div>
-
-"vou arrumar ainda
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaoluiz00&show_icons=true&theme=dracula&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoluiz00&layout=compact&theme=dracula"/>
-</div> 
--->
-
----
 
 ### 📫 Contato
 
