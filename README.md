@@ -19,9 +19,11 @@ Sou um desenvolvedor procurando meu primeiro emprego na área. Atualmente meu fo
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" title="PHP" style="margin-right: 10px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" title="Python" style="margin-right: 10px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" title="JavaScript" style="margin-right: 10px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" title="TypeScript" style="margin-right: 10px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" title="React" style="margin-right: 10px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vue logo" title="Vue.js" style="margin-right: 10px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" title="HTML5" style="margin-right: 10px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" title="CSS3" style="margin-right: 10px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" title="MySQL" style="margin-right: 10px" />
@@ -30,12 +32,10 @@ Sou um desenvolvedor procurando meu primeiro emprego na área. Atualmente meu fo
 
 ---
 
-
-
 ### 📫 Contato
 
 <div align="left">
-  <a href="www.linkedin.com/in/joão-luiz-souza-pereira-1015b9250" target="_blank">
+  <a href="https://www.linkedin.com/in/joão-luiz-souza-pereira-1015b9250" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
   <a href="mailto:joao.luiz.souza.pereira@gmail.com" target="_blank">
