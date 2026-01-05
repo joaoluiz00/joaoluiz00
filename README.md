@@ -6,7 +6,7 @@
 
 ### 👨‍💻 Sobre Mim
 
-Sou um desenvolvedor apaixonado por transformar ideias em código. Atualmente meu foco está no **Desenvolvimento Full Stack** e na criação de soluções web completas.
+Sou um desenvolvedor procurando meu primeiro emprego na área. Atualmente meu foco está no **Desenvolvimento Full Stack** e na criação de soluções web completas.
 
 - 🔭 Trabalhando atualmente em **projetos pessoais** para aprimorar meu portfólio.
 - 💼 Procurando ativamente por uma oportunidade profissional na área.
